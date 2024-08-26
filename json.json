@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rocky",
+    "owner": "Shane",
+    "type": ["Australian Cattledog","Australian Shepherd"]
+    "likes": [
+      "vocalizing",
+      "cats"
+    ]
+  },
+  {
+    "name": "Maple",
+    "owner": "Amanda",
+    "type": "Hound",
+    "likes": [
+      "zoomies",
+      "looking"
+    ]
+  },
+  {
+    "name": "Hopper",
+    "owner": "Jeremy",
+    "type": "Short-hair housecat",
+    "dislikes": [
+      "Getting chased",
+      "Having a dog all up in his space",
+      "Objects near ledges"
+    ]
+  }
+]
