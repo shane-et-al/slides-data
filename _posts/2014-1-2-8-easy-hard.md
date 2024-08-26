@@ -11,6 +11,7 @@ What kind of data is hard to grab?
 - Old data
 
 <aside markdown="1" class="notes">
+NUFORC Ajax calls
 Paywalls, social media, AI training
 CAPTCHAs, rate limits, "bot detection", robots.txt
 Obsolete text encodings
