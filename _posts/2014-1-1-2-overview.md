@@ -15,10 +15,6 @@ We'll talk about:
 - How do we get data from the Internet?
 - What kind of data is easy to get and what kind is hard?
 
-## What this talk is not about
-
-We only have a short time today, so a lot of this will be more of a demo than a tutorial.
-
 <aside markdown="1" class="notes">
 Web scraping is a technical method that covers a specific way to get data from the Web, but most people probably don't think of it 
 What is data and kinds of data: how do we think of data? How is data organized? What are some common data formats?
